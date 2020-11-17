@@ -1,4 +1,4 @@
-proiectia = 'Sx =VxT (Sx-proeactia miscarii; Vx-viteza mobilului; T-timpul)'
-coord = 'X=X0+VxT '
-viteza = 'Vx=ΔSx/ΔT sau Vx=ΔX/ΔT'
-tip = '(Sx-proeactia miscarii; Vx-viteza mobilului; T-timpul; X-pozitia mobilului; X0- pozitia initiala a mobilului; ΔT-interval de timp; ΔSx)
+proiectia = Sx =Vx*T
+coord = X=X0+Vx*T
+viteza1v = Vx=ΔSx/ΔT
+viteza2v = Vx=ΔX/ΔT
