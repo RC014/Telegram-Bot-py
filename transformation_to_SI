@@ -1,0 +1,9 @@
+x m to x cm | x = x / 100
+x km to x cm | x = x / 10**5
+x mm to x cm | x = x / 10
+x min to x sec | x = x * 60
+x km/h to m/s |  x = (x * 5) /18
+x cm/s to m/s | x = x / 100
+
+
+pi = 3,14
